@@ -16,8 +16,8 @@ we can  infer from the Capacity Strategy Algorithm, which is used for planning c
 Basically we use this algorithm to determine the capacity or the rate of production of products.
 
 Now the similar conditions arises:-
-             Idle condition(Underflow) - When the customers are not buying the available stock in the market.
-               Overflow - When the customer demand of the product is higher than the stock present  in the market.
+  Idle condition(Underflow) - When the customers are not buying the available stock in the market.
+  Overflow - When the customer demand of the product is higher than the stock present  in the market.
 
 The capacity decisions:-
     1.Impact the ability of the organization to meet the future demands.
