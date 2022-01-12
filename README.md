@@ -27,6 +27,8 @@ Basically we use this algorithm to determine the capacity or the rate of product
     <br />5/ Can affect competitiveness.
     <br />6/ Affect the ease of management.
     <br />7/ Need to be planned in advance due to their consumption of financial and other resources.
+    
+    
     <br />So, the strategies are typically based on the assumptions and predictions about:-
 <br />i) Long-term demand pattern
 <br />ii) Technological change
