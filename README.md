@@ -3,13 +3,13 @@
 
 Solution 
 
-1/ What are the capacity usage patterns?
-Capacity usage patterns tell us about the slot usage by the query at a given timestamp.
+    1/ What are the capacity usage patterns?
+   Capacity usage patterns tell us about the slot usage by the query at a given timestamp.
 
     2/ What do you infer from the missing timestamps?
- We can infer from the missing timestamps that no computations are being    performed at that timestamp [ i.e the system is idle].
+ We can infer from the missing timestamps that no computations are being performed at that timestamp [ i.e the system is idle].
 
-  3/  How would you solve this optimization problem - wherein at some times we’re overusing the capacity, and at other times, we’re under-using. How do we cut down on the extra costs that we end up paying either way? 
+    3/  How would you solve this optimization problem - wherein at some times we’re overusing the capacity, and at other times, we’re under-using. How do we cut down on the extra costs that we end up paying either way? 
 
 Similar to Capacity Strategy Algorithm,
 we can  infer from the Capacity Strategy Algorithm, which is used for planning capacity of products and services [majorly used in  Marketing]. Basically we use this algorithm to determine the capacity or the rate of production of products.
@@ -32,9 +32,9 @@ ii) Technological change
 iii) Competitive behavior
 
 After analyzing and observing the given problem few things which our solution should provide while choosing a value for “X” are-
-Effectiveness
-Efficiency
-Utilization
+i)Effectiveness
+ii)Efficiency
+iii)Utilization
 We can find an Optimal operating level by analyzing previous Capacity usage patterns and find an average value for the fixed slot value.
 Based on our analysis we will assume that the upcoming Capacity usage values will not be much higher or lower than this average value. In this way it will provide the optimization to our system and we will cut down the extra price that we were paying.
 
