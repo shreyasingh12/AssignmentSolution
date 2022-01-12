@@ -1,7 +1,7 @@
-# AssignmentSolution
+# Assignment Solution
 
 
-Solution 
+
 
     1/ What are the capacity usage patterns?
    Capacity usage patterns tell us about the slot usage by the query at a given timestamp.
