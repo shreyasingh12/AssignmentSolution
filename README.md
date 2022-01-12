@@ -20,22 +20,22 @@ Now the similar conditions arises:-
   <br /> Overflow - When the customer demand of the product is higher than the stock present in the market.
 
 The capacity decisions:-
-    1.Impact the ability of the organization to meet the future demands.
-    2.Going to affect the operating cost.
-    3.Are a major determinant of initial cost.
-    4.Often involves long-term commitment of resources.
-    5.Can affect competitiveness.
-    6.Affect the ease of management.
-    7.Need to be planned in advance due to their consumption of financial and other resources.
+    <br />1.Impact the ability of the organization to meet the future demands.
+    <br />2.Going to affect the operating cost.
+    <br />3.Are a major determinant of initial cost.
+    <br />4.Often involves long-term commitment of resources.
+    <br />5.Can affect competitiveness.
+    <br />6.Affect the ease of management.
+    <br />7.Need to be planned in advance due to their consumption of financial and other resources.
     So, the strategies are typically based on the assumptions and predictions about:-
-i) Long-term demand pattern
-ii) Technological change
-iii) Competitive behavior
+<br />i) Long-term demand pattern
+<br />ii) Technological change
+<br />iii) Competitive behavior
 
 After analyzing and observing the given problem few things which our solution should provide while choosing a value for “X” are-
-i)Effectiveness
-ii)Efficiency
-iii)Utilization
+<br />i)Effectiveness
+<br />ii)Efficiency
+<br />iii)Utilization
 We can find an Optimal operating level by analyzing previous Capacity usage patterns and find an average value for the fixed slot value.
 Based on our analysis we will assume that the upcoming Capacity usage values will not be much higher or lower than this average value. In this way it will provide the optimization to our system and we will cut down the extra price that we were paying.
 
