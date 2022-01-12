@@ -12,20 +12,21 @@ Solution
     3/  How would you solve this optimization problem - wherein at some times we’re overusing the capacity, and at other times, we’re under-using. How do we cut down on the extra costs that we end up paying either way? 
 
 Similar to Capacity Strategy Algorithm,
-we can  infer from the Capacity Strategy Algorithm, which is used for planning capacity of products and services [majorly used in  Marketing]. Basically we use this algorithm to determine the capacity or the rate of production of products.
+we can  infer from the Capacity Strategy Algorithm, which is used for planning capacity of products and services [majorly used in  Marketing].
+Basically we use this algorithm to determine the capacity or the rate of production of products.
 
 Now the similar conditions arises:-
-Idle condition(Underflow) - When the customers are not buying the available stock in the market.
-Overflow - When the customer demand of the product is higher than the stock present  in the market.
+    Idle condition(Underflow) - When the customers are not buying the available stock in the market.
+    Overflow - When the customer demand of the product is higher than the stock present  in the market.
 
 The capacity decisions:-
-Impact the ability of the organization to meet the future demands.
-Going to affect the operating cost.
-Are a major determinant of initial cost.
-Often involves long-term commitment of resources.
-Can affect competitiveness.
-Affect the ease of management.
-Need to be planned in advance due to their consumption of financial and other resources.
+    1.Impact the ability of the organization to meet the future demands.
+    2.Going to affect the operating cost.
+    3.Are a major determinant of initial cost.
+    4.Often involves long-term commitment of resources.
+    5.Can affect competitiveness.
+    6.Affect the ease of management.
+    7.Need to be planned in advance due to their consumption of financial and other resources.
     So, the strategies are typically based on the assumptions and predictions about:-
 i) Long-term demand pattern
 ii) Technological change
